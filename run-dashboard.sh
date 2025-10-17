@@ -1,0 +1,1 @@
+nx run dashboard:serve
